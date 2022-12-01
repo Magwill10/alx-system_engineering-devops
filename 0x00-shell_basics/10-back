@@ -1,2 +1,2 @@
 #!/bin/bash
-cd ..  changes the the working directory to the previous directory you were 		
+cd - Change directory to the previous directory you were in
